@@ -94,9 +94,9 @@ pip install tensorflow==2.15.0 matplotlib tensorflowjs h5py kagglehub split-fold
 * **Akurasi Akhir (Fine-Tuning)**: **\~99.07%** pada set data uji.  
 * **Visualisasi Hasil**:
 
-![](inference_results.png)
+![](initial_training_results.png)
 * **Grafik Akurasi & Loss**: Menunjukkan performa model selama pelatihan dan validasi.
 
-  ![](initial_training_results.png)
+  ![](inference_results.png)
 
   * Contoh Hasil Dari Percobaan Inferensi Di Notebook.
